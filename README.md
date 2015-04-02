@@ -1,6 +1,6 @@
 # go hello world
-. syntax
-. package
-. library
-. web
+* syntax
+* package
+* library
+* web
 
